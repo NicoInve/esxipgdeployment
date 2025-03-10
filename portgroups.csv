@@ -1,0 +1,3 @@
+VSwitch,PortGroup,VLAN
+vSwitch0,Backup_SITE1,54
+vSwitch0,LAN,0
