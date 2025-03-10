@@ -1,3 +1,5 @@
 VSwitch,PortGroup,VLAN
-vSwitch0,Backup_SITE1,54
-vSwitch0,LAN,0
+vSwitch0,PG-Production,10
+vSwitch0,PG-Backup,20
+vSwitch1,PG-Management,30
+vSwitch1,PG-NoVLAN,0
